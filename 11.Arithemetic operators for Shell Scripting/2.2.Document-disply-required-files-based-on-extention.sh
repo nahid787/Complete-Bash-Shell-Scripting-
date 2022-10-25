@@ -12,3 +12,8 @@ case $ext in
 		echo "Sorry!. You entered invalid file extention"
 		;;
 esac
+
+#Method: 02
+#clear
+#read -p "Enter your file extention: " ext
+#ls -ltr *$ext
